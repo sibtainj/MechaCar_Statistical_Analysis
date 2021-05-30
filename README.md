@@ -16,6 +16,9 @@ The overall variance does meet the requirement of less then 100 pounds per squar
 
 According to the T test, all of the suspension data is a little off compared to the desired mean of 1500. However when T test was done for individual lots, it shows that lot 3 is the one that brings the T value lower.
 
+The image below displays all the T test results, all lots combined and individual lots as well:
+![T Test results](/t_test.PNG)
+
 ## Study Design: MechaCar vs Competition
 
 What metric or metrics are you going to test? Trunk space is important. The dataset will need to have trunk space for MechaCar and the competition

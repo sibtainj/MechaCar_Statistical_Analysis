@@ -14,9 +14,7 @@ The overall variance does meet the requirement of less then 100 pounds per squar
 Below is a summary of all lots and summary by each lot individually:
 
 ![T Test results](/AllSummary.PNG)
-
 ![T Test results](/LotSummary.PNG)
-
 
 ## T-Tests on Suspension Coils
 

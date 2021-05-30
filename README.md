@@ -11,6 +11,12 @@ The model does predict mpg as the multiple R -squared is 0.7149 which means it w
 ## Summary Statistics on Suspension Coils
 
 The overall variance does meet the requirement of less then 100 pounds per square inch, however when we look at the lots individually Lot 3 does not meet the minimum requirement as the variance is above 100.
+Below is a summary of all lots and summary by each lot individually:
+
+![T Test results](/AllSummary.PNG)
+
+![T Test results](/LotSummary.PNG)
+
 
 ## T-Tests on Suspension Coils
 
